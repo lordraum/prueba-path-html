@@ -11,5 +11,5 @@ export default defineConfig({
       },
     },
   },
-  base: "/project/",
+  base: "/lordraum/prueba-path-html/",
 });
